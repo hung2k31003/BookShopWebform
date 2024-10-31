@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|d:\\tmdt\\nh\u00F3m 4-b\u00E1n s\u00E1ch\\baitaplon\\donhangcuatoi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:donhangcuatoi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|d:\\tmdt\\nh\u00F3m 4-b\u00E1n s\u00E1ch\\baitaplon\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\khachhangmuanhieu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:khachhangmuanhieu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\khachhangmuanhieu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:khachhangmuanhieu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\quanlydonhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:quanlydonhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\chitietdonhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:chitietdonhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\suakhachhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:suakhachhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\quanlysanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:quanlysanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\quanlykhachhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:quanlykhachhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\donhangcuatoi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:donhangcuatoi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\chitietdonhang2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:chitietdonhang2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\viewdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:viewdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\mywishlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:mywishlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\mycart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:mycart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\suadanhmuc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:suadanhmuc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\quanlydanhmuc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:quanlydanhmuc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\themsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:themsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\suasanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:suasanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D136DBA1-0964-4112-9A2F-A831658AD7A2}|WebApplication1.csproj|solutionrelative:admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonHangCuaToi.aspx.cs",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\DonHangCuaToi.aspx.cs",
+              "RelativeDocumentMoniker": "DonHangCuaToi.aspx.cs",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\DonHangCuaToi.aspx.cs",
+              "RelativeToolTip": "DonHangCuaToi.aspx.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAowHkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T09:43:37.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Checkout.aspx.cs",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\Checkout.aspx.cs",
+              "RelativeDocumentMoniker": "Checkout.aspx.cs",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\Checkout.aspx.cs",
+              "RelativeToolTip": "Checkout.aspx.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:37:53.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhachHangMuaNhieu.aspx.cs",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\KhachHangMuaNhieu.aspx.cs",
+              "RelativeDocumentMoniker": "KhachHangMuaNhieu.aspx.cs",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\KhachHangMuaNhieu.aspx.cs",
+              "RelativeToolTip": "KhachHangMuaNhieu.aspx.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAswGQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:30:10.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChiTietDonHang.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\ChiTietDonHang.aspx",
+              "RelativeDocumentMoniker": "ChiTietDonHang.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\ChiTietDonHang.aspx",
+              "RelativeToolTip": "ChiTietDonHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-26T09:29:07.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuanLyDonHang.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\QuanLyDonHang.aspx",
+              "RelativeDocumentMoniker": "QuanLyDonHang.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\QuanLyDonHang.aspx",
+              "RelativeToolTip": "QuanLyDonHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-26T09:29:07.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SuaKhachHang.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\SuaKhachHang.aspx",
+              "RelativeDocumentMoniker": "SuaKhachHang.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\SuaKhachHang.aspx",
+              "RelativeToolTip": "SuaKhachHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-26T09:29:07.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KhachHangMuaNhieu.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\KhachHangMuaNhieu.aspx",
+              "RelativeDocumentMoniker": "KhachHangMuaNhieu.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\KhachHangMuaNhieu.aspx",
+              "RelativeToolTip": "KhachHangMuaNhieu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-26T09:29:07.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-08-26T09:29:07.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuanLyKhachHang.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\QuanLyKhachHang.aspx",
+              "RelativeDocumentMoniker": "QuanLyKhachHang.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\QuanLyKhachHang.aspx",
+              "RelativeToolTip": "QuanLyKhachHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-08-26T09:29:07.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuanLySanPham.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\QuanLySanPham.aspx",
+              "RelativeDocumentMoniker": "QuanLySanPham.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\QuanLySanPham.aspx",
+              "RelativeToolTip": "QuanLySanPham.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-08-26T09:29:07.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DonHangCuaToi.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\DonHangCuaToi.aspx",
+              "RelativeDocumentMoniker": "DonHangCuaToi.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\DonHangCuaToi.aspx",
+              "RelativeToolTip": "DonHangCuaToi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-08-26T09:29:07.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChiTietDonHang2.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\ChiTietDonHang2.aspx",
+              "RelativeDocumentMoniker": "ChiTietDonHang2.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\ChiTietDonHang2.aspx",
+              "RelativeToolTip": "ChiTietDonHang2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-08-26T09:29:07.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Checkout.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\Checkout.aspx",
+              "RelativeDocumentMoniker": "Checkout.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\Checkout.aspx",
+              "RelativeToolTip": "Checkout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-26T09:29:07.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-08-26T09:29:07.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\Register.aspx",
+              "RelativeDocumentMoniker": "Register.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\Register.aspx",
+              "RelativeToolTip": "Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-08-26T09:29:07.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ViewDetail.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\ViewDetail.aspx",
+              "RelativeDocumentMoniker": "ViewDetail.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\ViewDetail.aspx",
+              "RelativeToolTip": "ViewDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-08-26T09:29:07.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MyWishlist.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\MyWishlist.aspx",
+              "RelativeDocumentMoniker": "MyWishlist.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\MyWishlist.aspx",
+              "RelativeToolTip": "MyWishlist.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-08-26T09:29:07.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\Home.aspx",
+              "RelativeDocumentMoniker": "Home.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\Home.aspx",
+              "RelativeToolTip": "Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-08-26T09:29:07.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyCart.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\MyCart.aspx",
+              "RelativeDocumentMoniker": "MyCart.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\MyCart.aspx",
+              "RelativeToolTip": "MyCart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-08-26T09:29:07.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SuaDanhMuc.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\SuaDanhMuc.aspx",
+              "RelativeDocumentMoniker": "SuaDanhMuc.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\SuaDanhMuc.aspx",
+              "RelativeToolTip": "SuaDanhMuc.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-08-26T09:29:07.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QuanLyDanhMuc.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\QuanLyDanhMuc.aspx",
+              "RelativeDocumentMoniker": "QuanLyDanhMuc.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\QuanLyDanhMuc.aspx",
+              "RelativeToolTip": "QuanLyDanhMuc.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-08-26T09:29:07.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SuaSanPham.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\SuaSanPham.aspx",
+              "RelativeDocumentMoniker": "SuaSanPham.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\SuaSanPham.aspx",
+              "RelativeToolTip": "SuaSanPham.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-08-26T09:29:07.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ThemSanPham.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\ThemSanPham.aspx",
+              "RelativeDocumentMoniker": "ThemSanPham.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\ThemSanPham.aspx",
+              "RelativeToolTip": "ThemSanPham.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-08-26T09:29:07.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\Admin.aspx",
+              "RelativeDocumentMoniker": "Admin.aspx",
+              "ToolTip": "D:\\TMDT\\Nh\u00F3m 4-B\u00E1n s\u00E1ch\\BaiTapLon\\Admin.aspx",
+              "RelativeToolTip": "Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-08-26T09:29:07.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
